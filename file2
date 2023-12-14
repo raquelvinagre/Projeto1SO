@@ -1,0 +1,6 @@
+SIZE	NAME	20231110 -n .*sh -d 2023-11-10
+18065	.
+17838	./test_a1
+9534	./test_a1/rrr
+4157	./.git/hooks
+4157	./.git
